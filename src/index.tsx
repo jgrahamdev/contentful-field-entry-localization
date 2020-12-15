@@ -20,7 +20,7 @@ import './index.css';
 import Config from './components/ConfigScreen';
 import EntryEditor from './components/EntryEditor';
 import Page from './components/Page';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/Sidebar/Sidebar';
 import Field from './components/Field';
 import Dialog from './components/Dialog';
 
